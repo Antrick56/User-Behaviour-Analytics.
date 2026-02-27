@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Behavior Analytics
 
 A comprehensive real-time user behavior monitoring and risk assessment platform with ML-powered anomaly detection.
@@ -122,3 +123,7 @@ MIT License
 ## Support
 
 For issues and questions, please open an issue on GitHub.
+=======
+# User-Behaviour-Analytics.
+Real-time user behavior monitoring &amp; risk assessment platform with ML-powered anomaly detection, JWT auth, WebSocket live updates, and a React dashboard
+>>>>>>> 9cf96696485d839234387f8e5890045372a1e32c
